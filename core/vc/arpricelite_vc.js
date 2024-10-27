@@ -1,0 +1,1 @@
+jQuery(document).on("click",".ARPrice_lite_Shortode_field",function(a){jQuery(".arp_param_block").find(".ARPrice_lite_Shortode_field").removeClass("arp_active");var e=jQuery(this).attr("id");jQuery(this).addClass("arp_active"),e&&jQuery(".arp_param_block").find(".wpb_vc_param_value").val(e)});

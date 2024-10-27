@@ -1,0 +1,2618 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ARPrice Lite v3.6.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-11-20 05:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US"
+
+#: core/views/arprice_global_settings.php:415
+msgid ""
+" ( If you do not want to get analytics of clicked column than uncheck below "
+"checkbox. )"
+msgstr ""
+" ( If you do not want to get analytics of clicked column than uncheck below "
+"checkbox. )"
+
+#: core/views/arprice_global_settings.php:476
+msgid ""
+" ( Not recommended - If you have any js/css loading issue in your theme, "
+"only in that case you should enable this settings )"
+msgstr ""
+" ( Not recommended - If you have any js/css loading issue in your theme, "
+"only in that case you should enable this settings )"
+
+#: core/classes/class.arprice.php:91
+#, php-format
+msgid "%1$s Submit and%2$s Deactivate"
+msgstr "%1$s Submit and%2$s Deactivate"
+
+#: core/views/arprice_global_settings.php:402
+msgid ""
+"( If you facing any loading performance issue then you can disable one or "
+"more font icon. )"
+msgstr ""
+"( If you facing any loading performance issue then you can disable one or "
+"more font icon. )"
+
+#: core/views/arprice_ab_testing.php:101
+msgid ""
+"( You can add more than one variation table. The total weightage of "
+"variation table should be less than 100. The rest of the weightage will be "
+"applied to the primary table. )"
+msgstr ""
+"( You can add more than one variation table. The total weightage of "
+"variation table should be less than 100. The rest of the weightage will be "
+"applied to the primary table. )"
+
+#: core/views/arprice_global_settings.php:167
+#: core/views/arprice_global_settings.php:172
+msgid "(Max-Width)"
+msgstr "(Max-Width)"
+
+#: core/views/arprice_listing_editor.php:2416
+msgid "(Minimum value can be 0 and maximum value can be 100.)"
+msgstr "(Minimum value can be 0 and maximum value can be 100.)"
+
+#: core/views/arprice_global_settings.php:177
+msgid "(Optional)"
+msgstr "(Optional)"
+
+#: core/views/arprice_template_listing_2.0.php:156
+msgid "(Visits)"
+msgstr "(Visits)"
+
+#: arprice-responsive-pricing-table.php:2636
+#: arprice-responsive-pricing-table.php:2655
+#: arprice-responsive-pricing-table.php:2655
+#: core/views/arprice_global_settings.php:281
+#: core/views/arprice_ab_testing.php:39 core/views/arprice_ab_testing.php:42
+msgid "A/B Testing"
+msgstr "A/B Testing"
+
+#: core/views/arprice_ab_testing.php:25 core/views/arprice_ab_testing.php:202
+msgid "A/B Testing Analytics"
+msgstr "A/B Testing Analytics"
+
+#: arprice-responsive-pricing-table.php:982
+msgid "Above Button"
+msgstr "Above Button"
+
+#: core/classes/class.arprice_preview_editor.php:3714
+msgid "Active Tab"
+msgstr "Active Tab"
+
+#: arprice-responsive-pricing-table.php:2554
+#: core/views/arprice_listing_editor.php:895
+#: core/views/arprice_listing_editor.php:999
+#: core/views/arprice_listing_editor.php:1291
+#: core/views/arprice_listing_editor.php:1418
+#: core/views/arprice_listing_editor.php:1481
+#: core/views/arprice_listing_editor.php:1697
+#: core/views/arprice_listing_editor.php:1840
+#: core/views/arprice_listing_editor.php:2423
+msgid "Add"
+msgstr "Add"
+
+#: core/views/arprice_listing_editor.php:980
+msgid "Add Button Image"
+msgstr "Add Button Image"
+
+#: core/views/arprice_listing_editor.php:214
+#: core/views/arprice_listing_editor.php:223
+msgid "Add Column"
+msgstr "Add Column"
+
+#: core/views/arprice_listing_editor.php:2364
+msgid "Add Column Background Image"
+msgstr "Add Column Background Image"
+
+#: arprice-responsive-pricing-table.php:2553
+#: core/views/arprice_listing_editor.php:553
+#: core/views/arprice_listing_editor.php:879
+#: core/views/arprice_listing_editor.php:993
+#: core/views/arprice_listing_editor.php:1272
+#: core/views/arprice_listing_editor.php:1399
+#: core/views/arprice_listing_editor.php:1462
+#: core/views/arprice_listing_editor.php:1678
+#: core/views/arprice_listing_editor.php:1821
+#: core/views/arprice_listing_editor.php:2379
+#: core/views/arprice_import_export.php:155
+msgid "Add File"
+msgstr "Add File"
+
+#: arprice-responsive-pricing-table.php:2550
+#: core/views/arprice_listing_editor.php:864
+#: core/views/arprice_listing_editor.php:864
+#: core/views/arprice_listing_editor.php:934
+#: core/views/arprice_listing_editor.php:934
+#: core/views/arprice_listing_editor.php:1253
+#: core/views/arprice_listing_editor.php:1253
+#: core/views/arprice_listing_editor.php:1433
+#: core/views/arprice_listing_editor.php:1433
+#: core/views/arprice_listing_editor.php:1496
+#: core/views/arprice_listing_editor.php:1496
+#: core/views/arprice_listing_editor.php:1660
+#: core/views/arprice_listing_editor.php:1660
+#: core/views/arprice_listing_editor.php:1802
+#: core/views/arprice_listing_editor.php:1802
+msgid "Add Font Icon"
+msgstr "Add Font Icon"
+
+#: arprice-responsive-pricing-table.php:2549
+#: core/views/arprice_listing_editor.php:861
+#: core/views/arprice_listing_editor.php:861
+#: core/views/arprice_listing_editor.php:1246
+#: core/views/arprice_listing_editor.php:1246
+#: core/views/arprice_listing_editor.php:1383
+#: core/views/arprice_listing_editor.php:1383
+#: core/views/arprice_listing_editor.php:1446
+#: core/views/arprice_listing_editor.php:1446
+#: core/views/arprice_listing_editor.php:1647
+#: core/views/arprice_listing_editor.php:1647
+#: core/views/arprice_listing_editor.php:1654
+#: core/views/arprice_listing_editor.php:1654
+#: core/views/arprice_listing_editor.php:1711
+#: core/views/arprice_listing_editor.php:1711
+#: core/views/arprice_listing_editor.php:1797
+#: core/views/arprice_listing_editor.php:1797
+msgid "Add Media"
+msgstr "Add Media"
+
+#: core/views/arprice_template_listing_2.0.php:74
+msgid "Add New"
+msgstr "Add New"
+
+#: core/classes/class.arprice_preview_editor.php:4211
+#: core/classes/class.arprice_preview_editor_option.php:43
+#: core/classes/class.arprice_preview_editor_option.php:43
+msgid "Add New Row"
+msgstr "Add New Row"
+
+#: core/views/arprice_listing_editor.php:1075
+msgid "Add Nofollow Link?"
+msgstr "Add Nofollow Link?"
+
+#: core/views/arprice_listing_editor.php:427
+#: core/views/arprice_listing_editor.php:455
+msgid "Add Ribbon"
+msgstr "Add Ribbon"
+
+#: core/views/arprice_listing_editor.php:515
+msgid "Add Shortcode"
+msgstr "Add Shortcode"
+
+#: core/views/arprice_listing_editor.php:2502
+msgid ""
+"Add your variables with seperated by ; (semicolon). These variables will "
+"pass by GET method to specified URL upon button click."
+msgstr ""
+"Add your variables with seperated by ; (semicolon). These variables will "
+"pass by GET method to specified URL upon button click."
+
+#: arprice-responsive-pricing-table.php:2633
+msgid "Add/Edit Arpricelite Pricing Tables"
+msgstr "Add/Edit Arpricelite Pricing Tables"
+
+#: core/views/arprice_listing_editor.php:1630
+msgid "Additional Shortcode"
+msgstr "Additional Shortcode"
+
+#: arprice-responsive-pricing-table.php:1169
+msgid "Address"
+msgstr "Address"
+
+#: core/classes/class.arprice_preview_editor.php:792
+#: core/classes/class.arprice_preview_editor.php:822
+#: core/classes/class.arprice_preview_editor.php:822
+#: core/classes/class.arprice_preview_editor.php:822
+msgid "All"
+msgstr "All"
+
+#: arprice-responsive-pricing-table.php:2600
+msgid ""
+"All the template level options like column options, animation effects, "
+"tooltip settings etc can be changed in general setting area."
+msgstr ""
+"All the template level options like column options, animation effects, "
+"tooltip settings etc can be changed in general setting area."
+
+#: core/views/arprice_template_listing_2.0.php:157
+msgid "Analytics"
+msgstr "Analytics"
+
+#: core/classes/class.arprice_preview_editor.php:1729
+msgid "Apply To Editor"
+msgstr "Apply To Editor"
+
+#: arprice-responsive-pricing-table.php:2565
+msgid "Are you sure want to delete this column ?"
+msgstr "Are you sure want to delete this column ?"
+
+#: arprice-responsive-pricing-table.php:2538
+#: core/classes/class.arprice_preview_editor.php:4176
+#: core/classes/class.arprice_preview_editor_option.php:30
+msgid "Are you sure want to delete this column?"
+msgstr "Are you sure want to delete this column?"
+
+#: arprice-responsive-pricing-table.php:2566
+msgid "Are you sure want to delete this row ?"
+msgstr "Are you sure want to delete this row ?"
+
+#: core/classes/class.arprice_preview_editor.php:4229
+#: core/classes/class.arprice_preview_editor_option.php:85
+msgid "Are you sure want to delete this row?"
+msgstr "Are you sure want to delete this row?"
+
+#: arprice-responsive-pricing-table.php:2567
+msgid "Are you sure you want to delete this table ?"
+msgstr "Are you sure you want to delete this table ?"
+
+#: core/views/arprice_template_listing_2.0.php:335
+msgid "Are you sure you want to delete this table?"
+msgstr "Are you sure you want to delete this table?"
+
+#: core/views/arplite_growth_tools.php:9
+#: core/views/arplite_growth_tools_old.php:16
+msgid "ARForms Successfully installed."
+msgstr "ARForms Successfully installed."
+
+#: core/views/arplite_growth_tools.php:6
+#: core/views/arplite_growth_tools_old.php:13
+msgid "ARMember Successfully installed."
+msgstr "ARMember Successfully installed."
+
+#: core/views/arprice_listing_editor.php:665
+#: core/views/arprice_template_listing_2.0.php:310
+msgid "ARPrice Guided Tour"
+msgstr "ARPrice Guided Tour"
+
+#. Name of the plugin
+#: core/vc/class_vc_extend.php:30 core/widgets/arprice_widget.php:6
+#: core/classes/arplite_elementor_widget/arpricelite_element_add.php:21
+msgid "ARPrice Lite"
+msgstr "ARPrice Lite"
+
+#: core/classes/class.arprice.php:60
+msgid "ARPrice Lite - Sorry to see you go"
+msgstr "ARPrice Lite - Sorry to see you go"
+
+#: core/classes/arplite_elementor_widget/arpricelite_element_add.php:53
+msgid "ARPrice Lite Shortcode"
+msgstr "ARPrice Lite Shortcode"
+
+#: core/views/arprice_template_listing_2.0.php:16
+msgid ""
+"ARPricelite requires to have the following PHP modules/extensions to work "
+"properly. Kindly contact your hosting provider to install these "
+"modules/extensions."
+msgstr ""
+"ARPricelite requires to have the following PHP modules/extensions to work "
+"properly. Kindly contact your hosting provider to install these "
+"modules/extensions."
+
+#: arprice-responsive-pricing-table.php:2570
+msgid "Audio"
+msgstr "Audio"
+
+#: arprice-responsive-pricing-table.php:1142
+#: arprice-responsive-pricing-table.php:1147
+#: arprice-responsive-pricing-table.php:1158
+#: arprice-responsive-pricing-table.php:1162
+#: arprice-responsive-pricing-table.php:1180
+#: arprice-responsive-pricing-table.php:1185
+#: arprice-responsive-pricing-table.php:1190
+#: arprice-responsive-pricing-table.php:1195
+#: arprice-responsive-pricing-table.php:1200
+msgid "Autoplay"
+msgstr "Autoplay"
+
+#: core/classes/class.arprice_preview_editor.php:3117
+#: core/classes/class.arprice_preview_editor.php:3367
+#: core/classes/class.arprice_preview_editor.php:3706
+#: core/classes/class.arprice_preview_editor.php:3802
+#: core/views/arprice_listing_editor.php:409
+#: core/views/arprice_listing_editor.php:1880
+#: core/views/arprice_listing_editor.php:1914
+#: core/views/arprice_listing_editor.php:1984
+#: core/views/arprice_listing_editor.php:2087
+#: core/views/arprice_listing_editor.php:2125
+#: core/views/arprice_listing_editor.php:2224
+msgid "Background"
+msgstr "Background"
+
+#: core/classes/class.arprice_preview_editor.php:4167
+#: core/classes/class.arprice_preview_editor_option.php:18
+#: core/classes/class.arprice_preview_editor_option.php:18
+msgid "Background and Font Color"
+msgstr "Background and Font Color"
+
+#: core/views/arprice_listing_editor.php:2362
+msgid "Background Image"
+msgstr "Background Image"
+
+#: core/views/arprice_listing_editor.php:2400
+msgid "Background Position"
+msgstr "Background Position"
+
+#: arprice-responsive-pricing-table.php:1127
+msgid "Beatport Audio"
+msgstr "Beatport Audio"
+
+#: core/classes/class.arprice.php:68
+msgid ""
+"Before you deactivate the ARPrice Lite plugin, would you quickly give us "
+"your reason for doing so?"
+msgstr ""
+"Before you deactivate the ARPrice Lite plugin, would you quickly give us "
+"your reason for doing so?"
+
+#: arprice-responsive-pricing-table.php:982
+msgid "Below Button"
+msgstr "Below Button"
+
+#: arprice-responsive-pricing-table.php:2586
+msgid ""
+"Below you can see that your selected template is loaded in editor. Here you "
+"can modify it as per your need."
+msgstr ""
+"Below you can see that your selected template is loaded in editor. Here you "
+"can modify it as per your need."
+
+#: core/views/arprice_upgrade_to_premium.php:16
+msgid "Black Friday Sale"
+msgstr "Black Friday Sale"
+
+#: arprice-responsive-pricing-table.php:932
+msgid "Bob"
+msgstr "Bob"
+
+#: core/classes/class.arprice_preview_editor.php:2299
+msgid "Body Fonts"
+msgstr "Body Fonts"
+
+#: core/classes/class.arprice_preview_editor.php:3303
+#: core/classes/class.arprice_preview_editor.php:3628
+#: core/views/arprice_listing_editor.php:1912
+#: core/views/arprice_listing_editor.php:2085
+#: core/views/arprice_listing_editor.php:2222
+msgid "Body Row Colors"
+msgstr "Body Row Colors"
+
+#: core/classes/class.arprice_form.php:3176
+#: core/classes/class.arprice_preview_editor.php:1994
+#: core/classes/class.arprice_preview_editor.php:1994
+#: core/classes/class.arprice_preview_editor.php:2133
+#: core/classes/class.arprice_preview_editor.php:2133
+#: core/classes/class.arprice_preview_editor.php:2268
+#: core/classes/class.arprice_preview_editor.php:2268
+#: core/classes/class.arprice_preview_editor.php:2402
+#: core/classes/class.arprice_preview_editor.php:2402
+#: core/classes/class.arprice_preview_editor.php:2536
+#: core/classes/class.arprice_preview_editor.php:2536
+#: core/classes/class.arprice_preview_editor.php:2668
+#: core/classes/class.arprice_preview_editor.php:2668
+#: core/classes/class.arprice_preview_editor.php:2759
+#: core/classes/class.arprice_preview_editor.php:2759
+#: core/classes/class.arprice_preview_editor.php:2862
+#: core/classes/class.arprice_preview_editor.php:2862
+#: core/classes/class.arprice_preview_editor.php:2956
+#: core/classes/class.arprice_preview_editor.php:2956
+#: core/views/arprice_listing_editor.php:1192
+#: core/views/arprice_listing_editor.php:1192
+#: core/views/arprice_listing_editor.php:1579
+#: core/views/arprice_listing_editor.php:1579
+msgid "Bold"
+msgstr "Bold"
+
+#: core/views/arplite_growth_tools.php:3
+#: core/views/arplite_growth_tools_old.php:10
+msgid "BookingPress Successfully installed."
+msgstr "BookingPress Successfully installed."
+
+#: core/classes/class.arp_default_settings.php:5700
+msgid "Border"
+msgstr "Border"
+
+#: core/classes/class.arprice_preview_editor.php:1555
+msgid "Border Color"
+msgstr "Border Color"
+
+#: core/views/arprice_listing_editor.php:1950
+msgid "Border Colors"
+msgstr "Border Colors"
+
+#: core/classes/class.arprice_preview_editor.php:1575
+msgid "Border Radius"
+msgstr "Border Radius"
+
+#: core/classes/class.arprice_preview_editor.php:1201
+#: core/classes/class.arprice_preview_editor.php:1342
+#: core/views/arprice_listing_editor.php:2283
+msgid "Border Size"
+msgstr "Border Size"
+
+#: core/classes/class.arprice_preview_editor.php:1519
+#: core/views/arprice_listing_editor.php:2306
+msgid "Border Style"
+msgstr "Border Style"
+
+#: core/classes/class.arprice_preview_editor.php:1239
+#: core/classes/class.arprice_preview_editor.php:1382
+msgid "Border Type"
+msgstr "Border Type"
+
+#: core/classes/class.arprice_preview_editor.php:1475
+msgid "Border Width"
+msgstr "Border Width"
+
+#: core/classes/class.arprice_preview_editor.php:1288
+#: core/views/arprice_listing_editor.php:2326
+msgid "Borders"
+msgstr "Borders"
+
+#: arprice-responsive-pricing-table.php:902
+#: core/classes/class.arprice_preview_editor.php:749
+#: core/classes/class.arprice_preview_editor.php:1322
+#: core/classes/class.arprice_preview_editor.php:1647
+#: core/views/arprice_listing_editor.php:2355
+msgid "Bottom"
+msgstr "Bottom"
+
+#: core/views/arprice_template_listing_2.0.php:279
+msgid "Browse More Samples"
+msgstr "Browse More Samples"
+
+#: core/views/arprice_template_listing_2.0.php:186
+msgid "Browse Samples"
+msgstr "Browse Samples"
+
+#: arprice-responsive-pricing-table.php:1220
+#: arprice-responsive-pricing-table.php:2564
+#: core/classes/class.arprice_preview_editor.php:3273
+#: core/classes/class.arprice_preview_editor.php:3600
+#: core/views/arprice_listing_editor.php:841
+#: core/views/arprice_listing_editor.php:2070
+#: core/views/arprice_listing_editor.php:2208
+msgid "Button"
+msgstr "Button"
+
+#: core/views/arprice_listing_editor.php:924
+msgid "Button Content"
+msgstr "Button Content"
+
+#: core/classes/class.arprice_preview_editor.php:2567
+msgid "Button Fonts"
+msgstr "Button Fonts"
+
+#: core/classes/class.arprice_preview_editor_option.php:105
+msgid "Button General Settings"
+msgstr "Button General Settings"
+
+#: core/views/arprice_listing_editor.php:951
+msgid "Button Height"
+msgstr "Button Height"
+
+#: core/classes/class.arprice_preview_editor_option.php:106
+msgid "Button Image Settings"
+msgstr "Button Image Settings"
+
+#: core/views/arprice_listing_editor.php:976
+msgid "Button Image URL"
+msgstr "Button Image URL"
+
+#: core/views/arprice_listing_editor.php:1022
+msgid "Button Link"
+msgstr "Button Link"
+
+#: core/classes/class.arprice_preview_editor_option.php:107
+msgid "Button Link Settings"
+msgstr "Button Link Settings"
+
+#: core/classes/class.arprice_preview_editor_option.php:107
+msgid "Button Link/Script Settings"
+msgstr "Button Link/Script Settings"
+
+#: core/classes/class.arprice_preview_editor.php:1425
+msgid "Button Style Options"
+msgstr "Button Style Options"
+
+#: core/classes/class.arprice_preview_editor.php:1439
+msgid "Button Type"
+msgstr "Button Type"
+
+#: core/views/arprice_listing_editor.php:940
+msgid "Button Width"
+msgstr "Button Width"
+
+#: core/views/arprice_listing_editor.php:756
+#: core/views/arprice_listing_editor.php:768
+#: core/views/arprice_listing_editor.php:780
+#: core/views/arprice_listing_editor.php:792
+#: core/views/arprice_listing_editor.php:804
+#: core/views/arprice_global_settings.php:518
+#: core/views/arprice_ab_testing.php:260
+#: core/views/arprice_import_export.php:188
+#: core/views/arprice_template_listing_2.0.php:377
+#: core/views/arprice_template_listing_2.0.php:404
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: arprice-responsive-pricing-table.php:2198
+msgid "Can you mention it?"
+msgstr "Can you mention it?"
+
+#: arprice-responsive-pricing-table.php:2537
+#: core/classes/class.arprice_preview_editor.php:4180
+#: core/classes/class.arprice_preview_editor.php:4233
+#: core/classes/class.arprice_preview_editor_option.php:34
+#: core/classes/class.arprice_preview_editor_option.php:89
+#: core/views/arprice_listing_editor.php:460
+#: core/views/arprice_ab_testing.php:195
+#: core/views/arprice_template_listing_2.0.php:338
+msgid "Cancel"
+msgstr "Cancel"
+
+#: arprice-responsive-pricing-table.php:2595
+msgid "Change View"
+msgstr "Change View"
+
+#: core/views/arprice_global_settings.php:91
+msgid "Changes Saved Successfully."
+msgstr "Changes Saved Successfully."
+
+#: core/views/arprice_listing_editor.php:470
+msgid "Choose Color"
+msgstr "Choose Color"
+
+#: arprice-responsive-pricing-table.php:2587
+msgid "Choose color"
+msgstr "Choose color"
+
+#: core/views/arprice_listing_editor.php:271
+msgid "Choose File"
+msgstr "Choose File"
+
+#: core/classes/class.arprice_preview_editor.php:1252
+#: core/classes/class.arprice_preview_editor.php:1395
+#: core/classes/class.arprice_preview_editor.php:1810
+#: core/classes/class.arprice_preview_editor.php:1882
+#: core/classes/class.arprice_preview_editor.php:2039
+#: core/classes/class.arprice_preview_editor.php:2173
+#: core/classes/class.arprice_preview_editor.php:2308
+#: core/classes/class.arprice_preview_editor.php:2442
+#: core/classes/class.arprice_preview_editor.php:2576
+msgid "Choose Option"
+msgstr "Choose Option"
+
+#: core/views/arprice_global_settings.php:207
+msgid "Choose the character sets you want to add with google fonts"
+msgstr "Choose the character sets you want to add with google fonts"
+
+#: core/views/arprice_template_listing_2.0.php:179
+msgid "Choose your design"
+msgstr "Choose your design"
+
+#: arprice-responsive-pricing-table.php:2583
+msgid "Choose your template"
+msgstr "Choose your template"
+
+#: core/classes/class.arp_default_settings.php:5722
+msgid "Circle (Bordered)"
+msgstr "Circle (Bordered)"
+
+#: core/classes/class.arp_default_settings.php:5727
+msgid "Circle (Solid)"
+msgstr "Circle (Solid)"
+
+#: core/classes/class.arp_default_settings.php:5696
+msgid "Classic"
+msgstr "Classic"
+
+#: arprice-responsive-pricing-table.php:2584
+msgid "Click 'Next' button to clone selected template."
+msgstr "Click 'Next' button to clone selected template."
+
+#: arprice-responsive-pricing-table.php:2594
+msgid ""
+"click 'Next' or 'Preview' button to view your applied changes in separate "
+"responsive tab."
+msgstr ""
+"click 'Next' or 'Preview' button to view your applied changes in separate "
+"responsive tab."
+
+#: arprice-responsive-pricing-table.php:2598
+msgid "Click 'Next' or close button to get back to editor area."
+msgstr "Click 'Next' or close button to get back to editor area."
+
+#: core/views/arprice_template_listing_2.0.php:162
+msgid "Click to Copy"
+msgstr "Click to Copy"
+
+#: core/views/arprice_ab_testing.php:216
+msgid "Clicks"
+msgstr "Clicks"
+
+#: core/views/arprice_ab_testing.php:26
+msgid "Clicks & Views in %"
+msgstr "Clicks & Views in %"
+
+#: core/views/arprice_template_listing_2.0.php:139
+msgid "Clone Table"
+msgstr "Clone Table"
+
+#: core/classes/class.arprice_preview_editor.php:2992
+msgid "Color Settings"
+msgstr "Color Settings"
+
+#: core/classes/class.arprice_preview_editor.php:546
+msgid "Colors"
+msgstr "Colors"
+
+#: core/classes/class.arprice_preview_editor.php:3127
+#: core/classes/class.arprice_preview_editor.php:3407
+#: core/classes/class.arprice_preview_editor.php:3447
+#: core/views/arprice_listing_editor.php:1952
+#: core/views/arprice_listing_editor.php:1988
+#: core/views/arprice_listing_editor.php:2129
+msgid "Column"
+msgstr "Column"
+
+#: core/classes/class.arprice_preview_editor.php:1197
+#: core/views/arprice_listing_editor.php:2282
+msgid "Column Borders"
+msgstr "Column Borders"
+
+#: core/views/arprice_listing_editor.php:1975
+msgid "Column Color Settings"
+msgstr "Column Color Settings"
+
+#: core/views/arprice_listing_editor.php:1875
+msgid "Column Color Settings (Normal State)"
+msgstr "Column Color Settings (Normal State)"
+
+#: core/views/arprice_listing_editor.php:1789
+msgid "Column Description"
+msgstr "Column Description"
+
+#: core/classes/class.arprice_preview_editor_option.php:62
+#: core/classes/class.arprice_preview_editor_option.php:63
+#: core/classes/class.arprice_preview_editor_option.php:63
+msgid "Column Description Settings"
+msgstr "Column Description Settings"
+
+#: arprice-responsive-pricing-table.php:2547
+msgid "Column is hidden."
+msgstr "Column is hidden."
+
+#: arprice-responsive-pricing-table.php:2589
+msgid "Column level changes"
+msgstr "Column level changes"
+
+#: core/classes/class.arprice_preview_editor.php:525
+#: core/classes/class.arprice_preview_editor.php:615
+msgid "Column Options"
+msgstr "Column Options"
+
+#: core/classes/class.arprice_preview_editor.php:669
+msgid "Column Radius (px)"
+msgstr "Column Radius (px)"
+
+#: core/classes/class.arprice_preview_editor.php:4165
+#: core/classes/class.arprice_preview_editor_option.php:16
+#: core/classes/class.arprice_preview_editor_option.php:16
+msgid "Column Settings"
+msgstr "Column Settings"
+
+#: core/classes/class.arprice_preview_editor.php:1142
+msgid "Column Shadow"
+msgstr "Column Shadow"
+
+#: core/classes/class.arprice_preview_editor.php:1188
+msgid "Column shadow will not apply with column border radius."
+msgstr "Column shadow will not apply with column border radius."
+
+#: core/views/arprice_listing_editor.php:1373
+msgid "Column Title"
+msgstr "Column Title"
+
+#: core/classes/class.arprice_preview_editor.php:621
+msgid "Column Width"
+msgstr "Column Width"
+
+#: core/vc/class_vc_extend.php:33
+msgid "Content"
+msgstr "Content"
+
+#: core/classes/class.arprice_preview_editor.php:4209
+msgid "Content Settings"
+msgstr "Content Settings"
+
+#: core/views/arprice_template_listing_2.0.php:162
+msgid "Copied to Clipboard"
+msgstr "Copied to Clipboard"
+
+#: core/views/arprice_template_listing_2.0.php:71
+msgid "CREATE NEW"
+msgstr "CREATE NEW"
+
+#: core/views/arprice_template_listing_2.0.php:174
+msgid "Create New Table"
+msgstr "Create New Table"
+
+#: core/views/arprice_listing_editor.php:530
+msgid "Create Shortcode"
+msgstr "Create Shortcode"
+
+#: core/classes/class.arprice_preview_editor.php:1735
+msgid "CSS class info"
+msgstr "CSS class info"
+
+#: core/classes/class.arprice_preview_editor.php:4221
+#: core/classes/class.arprice_preview_editor_option.php:75
+#: core/classes/class.arprice_preview_editor_option.php:75
+msgid "CSS Properties"
+msgstr "CSS Properties"
+
+#: arprice-responsive-pricing-table.php:2556
+msgid "CSS Property"
+msgstr "CSS Property"
+
+#: core/classes/class.arprice_preview_editor.php:3052
+#: core/classes/class.arprice_preview_editor.php:3072
+#: core/classes/class.arprice_preview_editor.php:3072
+msgid "Custom Color"
+msgstr "Custom Color"
+
+#: core/classes/class.arprice_preview_editor.php:560
+#: core/classes/class.arprice_preview_editor.php:1711
+#: core/views/arprice_global_settings.php:144
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: core/views/arprice_listing_editor.php:434
+msgid "Custom Position:"
+msgstr "Custom Position:"
+
+#: core/views/arprice_listing_editor.php:327
+#: core/views/arprice_listing_editor.php:423
+msgid "Custom Ribbon"
+msgstr "Custom Ribbon"
+
+#: core/classes/class.arprice_preview_editor.php:3091
+msgid "Customize Color Options"
+msgstr "Customize Color Options"
+
+#: core/classes/class.arprice_preview_editor.php:3097
+msgid "Customize Colors"
+msgstr "Customize Colors"
+
+#: core/classes/class.arprice_preview_editor.php:1865
+msgid "Customize Font Sectionwise"
+msgstr "Customize Font Sectionwise"
+
+#: arprice-responsive-pricing-table.php:1120
+msgid "Dailymotion Video"
+msgstr "Dailymotion Video"
+
+#: core/classes/class.arprice_preview_editor.php:1265
+#: core/classes/class.arprice_preview_editor.php:1405
+#: core/classes/class.arprice_preview_editor.php:1405
+msgid "Dashed"
+msgstr "Dashed"
+
+#: core/classes/class.arprice_form.php:3129
+#: core/classes/class.arprice_preview_editor.php:1824
+#: core/classes/class.arprice_preview_editor.php:1896
+#: core/classes/class.arprice_preview_editor.php:2052
+#: core/classes/class.arprice_preview_editor.php:2186
+#: core/classes/class.arprice_preview_editor.php:2321
+#: core/classes/class.arprice_preview_editor.php:2455
+#: core/classes/class.arprice_preview_editor.php:2590
+#: core/classes/class.arprice_preview_editor.php:2713
+#: core/classes/class.arprice_preview_editor.php:2814
+#: core/classes/class.arprice_preview_editor.php:2910
+#: core/classes/class.arprice_preview_editor.php:5045
+msgid "Default Fonts"
+msgstr "Default Fonts"
+
+#: core/classes/class.arprice_preview_editor.php:2998
+msgid "Default Table Color"
+msgstr "Default Table Color"
+
+#: core/classes/class.arprice_preview_editor.php:4169
+#: core/classes/class.arprice_preview_editor_option.php:24
+#: core/classes/class.arprice_preview_editor_option.php:24
+#: core/views/arprice_listing_editor.php:647
+msgid "Delete Column"
+msgstr "Delete Column"
+
+#: core/classes/class.arprice_preview_editor.php:4225
+#: core/classes/class.arprice_preview_editor_option.php:80
+#: core/classes/class.arprice_preview_editor_option.php:80
+msgid "Delete Row"
+msgstr "Delete Row"
+
+#: core/views/arprice_template_listing_2.0.php:140
+#: core/views/arprice_template_listing_2.0.php:331
+msgid "Delete Table"
+msgstr "Delete Table"
+
+#: arprice-responsive-pricing-table.php:2548
+#: core/classes/class.arprice_preview_editor.php:3195
+#: core/classes/class.arprice_preview_editor.php:3523
+#: core/views/arprice_listing_editor.php:851
+#: core/views/arprice_listing_editor.php:2028
+#: core/views/arprice_listing_editor.php:2166
+msgid "Description"
+msgstr "Description"
+
+#: core/classes/class.arprice_preview_editor.php:2030
+msgid "Description Fonts"
+msgstr "Description Fonts"
+
+#: arprice-responsive-pricing-table.php:2544
+msgid "Description section is hidden."
+msgstr "Description section is hidden."
+
+#: core/classes/class.arprice_preview_editor.php:4217
+#: core/classes/class.arprice_preview_editor_option.php:71
+#: core/classes/class.arprice_preview_editor_option.php:71
+msgid "Description Settings"
+msgstr "Description Settings"
+
+#: core/views/arprice_global_settings.php:175
+msgid "Desktop View"
+msgstr "Desktop View"
+
+#: arprice-responsive-pricing-table.php:2552
+#: core/views/arprice_listing_editor.php:884
+#: core/views/arprice_listing_editor.php:1279
+#: core/views/arprice_listing_editor.php:1406
+#: core/views/arprice_listing_editor.php:1469
+#: core/views/arprice_listing_editor.php:1685
+#: core/views/arprice_listing_editor.php:1828
+msgid "Dimension ( height X width )"
+msgstr "Dimension ( height X width )"
+
+#: core/views/arprice_global_settings.php:444
+msgid "Display loader upon submission"
+msgstr "Display loader upon submission"
+
+#: core/widgets/arprice_widget.php:5
+msgid "Display Pricing Table"
+msgstr "Display Pricing Table"
+
+#: core/views/arprice_listing_editor.php:2388
+msgid "Do not scale image"
+msgstr "Do not scale image"
+
+#: core/views/arprice_template_listing_2.0.php:364
+msgid "Documentation"
+msgstr "Documentation"
+
+#: core/classes/class.arprice_preview_editor.php:1263
+#: core/classes/class.arprice_preview_editor.php:1404
+#: core/classes/class.arprice_preview_editor.php:1404
+msgid "Dotted"
+msgstr "Dotted"
+
+#: core/classes/class.arprice_preview_editor_option.php:22
+msgid "Duplicate Column"
+msgstr "Duplicate Column"
+
+#: core/classes/class.arprice_preview_editor.php:4223
+#: core/classes/class.arprice_preview_editor_option.php:79
+#: core/classes/class.arprice_preview_editor_option.php:79
+msgid "Duplicate Row"
+msgstr "Duplicate Row"
+
+#: arprice-responsive-pricing-table.php:2572
+msgid "Edit"
+msgstr "Edit"
+
+#: core/classes/class.arprice_preview_editor.php:1084
+msgid "Effect will shown in preview and front end only."
+msgstr "Effect will shown in preview and front end only."
+
+#: core/classes/class.arprice_preview_editor.php:532
+#: core/classes/class.arprice_preview_editor.php:1673
+msgid "Effects"
+msgstr "Effects"
+
+#: arprice-responsive-pricing-table.php:1203
+msgid "Embed"
+msgstr "Embed"
+
+#: arprice-responsive-pricing-table.php:1131
+msgid "Embed Block"
+msgstr "Embed Block"
+
+#: core/classes/class.arprice_preview_editor.php:363
+msgid "Embed Inline Pricing Table"
+msgstr "Embed Inline Pricing Table"
+
+#: core/views/arprice_listing_editor.php:1029
+msgid "Embed Script (e.g. PayPal Code)"
+msgstr "Embed Script (e.g. PayPal Code)"
+
+#: core/views/arprice_global_settings.php:297
+msgid "Enable A/B Testing"
+msgstr "Enable A/B Testing"
+
+#: core/views/arprice_global_settings.php:429
+msgid "Enable Analytics"
+msgstr "Enable Analytics"
+
+#: core/views/arprice_global_settings.php:459
+msgid "Enable Loader"
+msgstr "Enable Loader"
+
+#: core/views/arprice_global_settings.php:312
+msgid "Enable or Disable font icons"
+msgstr "Enable or Disable font icons"
+
+#: core/classes/class.arprice_preview_editor.php:762
+msgid "Enable Responsive column"
+msgstr "Enable Responsive column"
+
+#: arprice-responsive-pricing-table.php:2582
+msgid "End tour"
+msgstr "End tour"
+
+#: core/classes/class.arprice_preview_editor.php:1717
+msgid "Enter css class and style"
+msgstr "Enter css class and style"
+
+#: core/views/arprice_global_settings.php:266
+msgid "Enter Google Map API key"
+msgstr "Enter Google Map API key"
+
+#: core/classes/class.arprice_preview_editor.php:3335
+#: core/classes/class.arprice_preview_editor.php:3660
+#: core/views/arprice_listing_editor.php:1933
+#: core/views/arprice_listing_editor.php:2106
+#: core/views/arprice_listing_editor.php:2243
+msgid "Even"
+msgstr "Even"
+
+#: arprice-responsive-pricing-table.php:327
+msgid "Every 12 hours"
+msgstr "Every 12 hours"
+
+#: core/views/arprice_import_export.php:127
+msgid "Export"
+msgstr "Export"
+
+#: core/views/arprice_import_export.php:93
+msgid "Export Pricing Tables"
+msgstr "Export Pricing Tables"
+
+#: arprice-responsive-pricing-table.php:2543
+msgid "Feature section is hidden."
+msgstr "Feature section is hidden."
+
+#: arprice-responsive-pricing-table.php:2601
+msgid "Finish"
+msgstr "Finish"
+
+#: core/views/arprice_listing_editor.php:2394
+msgid "Fit to container"
+msgstr "Fit to container"
+
+#: core/classes/class.arp_default_settings.php:5692
+msgid "Flat"
+msgstr "Flat"
+
+#: core/classes/class.arprice_preview_editor.php:1799
+#: core/classes/class.arprice_preview_editor.php:1871
+#: core/classes/class.arprice_preview_editor.php:2032
+#: core/classes/class.arprice_preview_editor.php:2166
+#: core/classes/class.arprice_preview_editor.php:2301
+#: core/classes/class.arprice_preview_editor.php:2435
+#: core/classes/class.arprice_preview_editor.php:2569
+#: core/classes/class.arprice_preview_editor.php:2699
+#: core/classes/class.arprice_preview_editor.php:2800
+#: core/classes/class.arprice_preview_editor.php:2896
+#: core/views/arprice_listing_editor.php:1142
+#: core/views/arprice_listing_editor.php:1525
+#: core/views/arprice_listing_editor.php:2543
+msgid "Font Family"
+msgstr "Font Family"
+
+#: core/classes/class.arprice_preview_editor.php:1841
+#: core/classes/class.arprice_preview_editor.php:1914
+#: core/classes/class.arprice_preview_editor.php:2069
+#: core/classes/class.arprice_preview_editor.php:2203
+#: core/classes/class.arprice_preview_editor.php:2338
+#: core/classes/class.arprice_preview_editor.php:2472
+#: core/classes/class.arprice_preview_editor.php:2607
+#: core/views/arprice_listing_editor.php:1155
+#: core/views/arprice_listing_editor.php:1538
+#: core/views/arprice_listing_editor.php:2555
+msgid "Font Preview"
+msgstr "Font Preview"
+
+#: core/classes/class.arprice_preview_editor.php:1785
+msgid "Font Settings"
+msgstr "Font Settings"
+
+#: core/classes/class.arprice_preview_editor.php:1922
+#: core/classes/class.arprice_preview_editor.php:2073
+#: core/classes/class.arprice_preview_editor.php:2207
+#: core/classes/class.arprice_preview_editor.php:2342
+#: core/classes/class.arprice_preview_editor.php:2476
+#: core/classes/class.arprice_preview_editor.php:2612
+#: core/classes/class.arprice_preview_editor.php:2729
+#: core/classes/class.arprice_preview_editor.php:2830
+#: core/classes/class.arprice_preview_editor.php:2926
+#: core/views/arprice_listing_editor.php:1160
+#: core/views/arprice_listing_editor.php:1544
+#: core/views/arprice_listing_editor.php:2562
+msgid "Font Size"
+msgstr "Font Size"
+
+#: core/views/arprice_listing_editor.php:1190
+#: core/views/arprice_listing_editor.php:1577
+msgid "Font Style"
+msgstr "Font Style"
+
+#: core/views/arprice_global_settings.php:323
+msgid "Font-awesome"
+msgstr "Font-awesome"
+
+#: core/classes/class.arprice_preview_editor.php:539
+msgid "Fonts"
+msgstr "Fonts"
+
+#: core/classes/class.arprice_preview_editor.php:3247
+#: core/classes/class.arprice_preview_editor.php:3574
+#: core/views/arprice_listing_editor.php:1898
+#: core/views/arprice_listing_editor.php:2056
+#: core/views/arprice_listing_editor.php:2194
+msgid "Footer"
+msgstr "Footer"
+
+#: core/views/arprice_listing_editor.php:1100
+msgid "Footer Content"
+msgstr "Footer Content"
+
+#: core/classes/class.arprice_preview_editor.php:2433
+msgid "Footer Fonts"
+msgstr "Footer Fonts"
+
+#: core/classes/class.arprice_preview_editor.php:4203
+#: core/classes/class.arprice_preview_editor_option.php:104
+#: core/classes/class.arprice_preview_editor_option.php:104
+msgid "Footer General Settings"
+msgstr "Footer General Settings"
+
+#: arprice-responsive-pricing-table.php:2539
+msgid "Footer section is hidden."
+msgstr "Footer section is hidden."
+
+#: arprice-responsive-pricing-table.php:2559
+msgid "For Example"
+msgstr "For Example"
+
+#: core/classes/class.arprice_preview_editor.php:3383
+msgid "Foreground"
+msgstr "Foreground"
+
+#: core/classes/class.arprice.php:54
+msgid "Found a better plugin"
+msgstr "Found a better plugin"
+
+#: core/views/arprice_ab_testing.php:25
+msgid "From"
+msgstr "From"
+
+#: core/classes/class.arprice_preview_editor.php:848
+msgid "Full Column Clickable"
+msgstr "Full Column Clickable"
+
+#: arprice-responsive-pricing-table.php:2599
+msgid "General settings"
+msgstr "General settings"
+
+#: core/views/arprice_global_settings.php:139
+msgid "Global Custom CSS"
+msgstr "Global Custom CSS"
+
+#: core/views/arprice_global_settings.php:110
+msgid "Global Settings"
+msgstr "Global Settings"
+
+#: arprice-responsive-pricing-table.php:2637
+msgid "Global Settings Arpricelite Pricing Tables"
+msgstr "Global Settings Arpricelite Pricing Tables"
+
+#: core/classes/class.arprice_form.php:3137
+#: core/classes/class.arprice_preview_editor.php:1828
+#: core/classes/class.arprice_preview_editor.php:1900
+#: core/classes/class.arprice_preview_editor.php:2056
+#: core/classes/class.arprice_preview_editor.php:2190
+#: core/classes/class.arprice_preview_editor.php:2325
+#: core/classes/class.arprice_preview_editor.php:2459
+#: core/classes/class.arprice_preview_editor.php:2594
+#: core/classes/class.arprice_preview_editor.php:2715
+#: core/classes/class.arprice_preview_editor.php:2816
+#: core/classes/class.arprice_preview_editor.php:2912
+#: core/classes/class.arprice_preview_editor.php:5047
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: arprice-responsive-pricing-table.php:1130
+msgid "Google Map"
+msgstr "Google Map"
+
+#: core/views/arprice_global_settings.php:261
+msgid "Google Map Setting"
+msgstr "Google Map Setting"
+
+#: arprice-responsive-pricing-table.php:2659
+msgid "Growth Plugins"
+msgstr "Growth Plugins"
+
+#: arprice-responsive-pricing-table.php:933
+msgid "Hang"
+msgstr "Hang"
+
+#: core/classes/class.arprice_preview_editor.php:3143
+#: core/classes/class.arprice_preview_editor.php:3465
+#: core/views/arprice_listing_editor.php:1884
+#: core/views/arprice_listing_editor.php:1999
+#: core/views/arprice_listing_editor.php:2138
+msgid "Header"
+msgstr "Header"
+
+#: core/classes/class.arprice_preview_editor.php:1867
+msgid "Header Fonts"
+msgstr "Header Fonts"
+
+#: arprice-responsive-pricing-table.php:2541
+msgid "Header section is hidden."
+msgstr "Header section is hidden."
+
+#: core/classes/class.arprice_preview_editor.php:4191
+#: core/classes/class.arprice_preview_editor_option.php:49
+#: core/classes/class.arprice_preview_editor_option.php:49
+msgid "Header Settings"
+msgstr "Header Settings"
+
+#: arprice-responsive-pricing-table.php:2545
+msgid "Header shortcode section is hidden."
+msgstr "Header shortcode section is hidden."
+
+#: arprice-responsive-pricing-table.php:1136
+#: arprice-responsive-pricing-table.php:1141
+#: arprice-responsive-pricing-table.php:1146
+#: arprice-responsive-pricing-table.php:1151
+#: arprice-responsive-pricing-table.php:1170
+#: arprice-responsive-pricing-table.php:1179
+#: arprice-responsive-pricing-table.php:1184
+#: arprice-responsive-pricing-table.php:1189
+#: arprice-responsive-pricing-table.php:1194
+#: arprice-responsive-pricing-table.php:1199
+msgid "Height"
+msgstr "Height"
+
+#: core/classes/class.arprice_preview_editor.php:2705
+#: core/classes/class.arprice_preview_editor.php:2806
+#: core/classes/class.arprice_preview_editor.php:2902
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: core/classes/class.arprice_preview_editor.php:894
+msgid "Hide blank rows from bottom"
+msgstr "Hide blank rows from bottom"
+
+#: core/classes/class.arprice_preview_editor.php:1014
+msgid "Hide Body"
+msgstr "Hide Body"
+
+#: core/classes/class.arprice_preview_editor.php:1066
+msgid "Hide Button"
+msgstr "Hide Button"
+
+#: core/classes/class.arprice_preview_editor.php:874
+msgid "Hide Caption Column"
+msgstr "Hide Caption Column"
+
+#: core/classes/class.arprice_preview_editor.php:926
+msgid "Hide Column Sections"
+msgstr "Hide Column Sections"
+
+#: core/views/arprice_listing_editor.php:1036
+msgid "Hide default button"
+msgstr "Hide default button"
+
+#: core/classes/class.arprice_preview_editor.php:1040
+msgid "Hide Description"
+msgstr "Hide Description"
+
+#: core/classes/class.arprice_preview_editor.php:936
+msgid "Hide Header"
+msgstr "Hide Header"
+
+#: core/classes/class.arprice_preview_editor.php:988
+msgid "Hide Price"
+msgstr "Hide Price"
+
+#: core/classes/class.arprice_preview_editor.php:962
+msgid "Hide Shortcode"
+msgstr "Hide Shortcode"
+
+#: core/classes/class.arprice_preview_editor_option.php:20
+msgid "Hide/Show Column"
+msgstr "Hide/Show Column"
+
+#: core/views/arprice_listing_editor.php:2438
+msgid "Highlight Column"
+msgstr "Highlight Column"
+
+#: arprice-responsive-pricing-table.php:2596
+msgid "Hit Next or Mobile button to view pricing table preview in mobile view."
+msgstr ""
+"Hit Next or Mobile button to view pricing table preview in mobile view."
+
+#: core/classes/class.arprice_preview_editor.php:3109
+msgid "Hover"
+msgstr "Hover"
+
+#: arprice-responsive-pricing-table.php:927
+msgid "Hover Effect"
+msgstr "Hover Effect"
+
+#: arprice-responsive-pricing-table.php:2590
+msgid ""
+"Hover on the column and you will see option bar on the top of the column. "
+"hover on the header area to see options for header part."
+msgstr ""
+"Hover on the column and you will see option bar on the top of the column. "
+"hover on the header area to see options for header part."
+
+#: arprice-responsive-pricing-table.php:2558
+msgid "Hover State"
+msgstr "Hover State"
+
+#: core/classes/class.arprice.php:74
+msgid "How could we improve ?"
+msgstr "How could we improve ?"
+
+#: arprice-responsive-pricing-table.php:2197
+msgid "How could we improve?"
+msgstr "How could we improve?"
+
+#: arprice-responsive-pricing-table.php:2563
+#: core/views/arprice_listing_editor.php:831
+msgid "HTML/Text"
+msgstr "HTML/Text"
+
+#: arprice-responsive-pricing-table.php:1124
+msgid "html5 Audio"
+msgstr "html5 Audio"
+
+#: arprice-responsive-pricing-table.php:1119
+msgid "html5 Video"
+msgstr "html5 Video"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://arpriceplugin.com"
+msgstr "http://arpriceplugin.com"
+
+#: arprice-responsive-pricing-table.php:456
+msgid "I already did"
+msgstr "I already did"
+
+#: core/classes/class.arprice.php:56
+msgid "I bought premium version of ARPrice"
+msgstr "I bought premium version of ARPrice"
+
+#: core/classes/class.arprice.php:88
+msgid ""
+"If you UNCHECK this then your email address will be sent along with your "
+"feedback. This can be used by arplite to get back to you for more info or a "
+"solution."
+msgstr ""
+"If you UNCHECK this then your email address will be sent along with your "
+"feedback. This can be used by arplite to get back to you for more info or a "
+"solution."
+
+#: arprice-responsive-pricing-table.php:1114
+#: arprice-responsive-pricing-table.php:2568
+msgid "Image"
+msgstr "Image"
+
+#: arprice-responsive-pricing-table.php:1135
+#: arprice-responsive-pricing-table.php:2551
+#: core/views/arprice_listing_editor.php:874
+#: core/views/arprice_listing_editor.php:990
+#: core/views/arprice_listing_editor.php:1266
+#: core/views/arprice_listing_editor.php:1393
+#: core/views/arprice_listing_editor.php:1456
+#: core/views/arprice_listing_editor.php:1672
+#: core/views/arprice_listing_editor.php:1814
+#: core/views/arprice_listing_editor.php:2373
+msgid "Image URL"
+msgstr "Image URL"
+
+#: core/views/arprice_import_export.php:167
+msgid "Import"
+msgstr "Import"
+
+#: core/views/arprice_import_export.php:62
+msgid "Import / Export Pricing Tables"
+msgstr "Import / Export Pricing Tables"
+
+#: core/classes/class.arprice_preview_editor.php:574
+msgid "Import Data"
+msgstr "Import Data"
+
+#: core/views/arprice_import_export.php:136
+msgid "Import Pricing Tables"
+msgstr "Import Pricing Tables"
+
+#: arprice-responsive-pricing-table.php:2653
+msgid "Import/Export"
+msgstr "Import/Export"
+
+#: arprice-responsive-pricing-table.php:2635
+msgid "Import/Export Arpricelite Pricing Tables"
+msgstr "Import/Export Arpricelite Pricing Tables"
+
+#: core/classes/class.arprice_preview_editor.php:3736
+msgid "Inactive Tab"
+msgstr "Inactive Tab"
+
+#: core/classes/class.arprice.php:55
+msgid "Incompatible with theme or plugin"
+msgstr "Incompatible with theme or plugin"
+
+#: arprice-responsive-pricing-table.php:1175
+msgid "Info window by default?"
+msgstr "Info window by default?"
+
+#: arprice-responsive-pricing-table.php:2183
+#: core/classes/class.arprice_preview_editor.php:1813
+#: core/classes/class.arprice_preview_editor.php:1822
+#: core/classes/class.arprice_preview_editor.php:1822
+#: core/classes/class.arprice_preview_editor.php:1885
+#: core/classes/class.arprice_preview_editor.php:1894
+#: core/classes/class.arprice_preview_editor.php:1894
+#: core/classes/class.arprice_preview_editor.php:2043
+#: core/classes/class.arprice_preview_editor.php:2050
+#: core/classes/class.arprice_preview_editor.php:2050
+#: core/classes/class.arprice_preview_editor.php:2177
+#: core/classes/class.arprice_preview_editor.php:2184
+#: core/classes/class.arprice_preview_editor.php:2184
+#: core/classes/class.arprice_preview_editor.php:2312
+#: core/classes/class.arprice_preview_editor.php:2319
+#: core/classes/class.arprice_preview_editor.php:2319
+#: core/classes/class.arprice_preview_editor.php:2446
+#: core/classes/class.arprice_preview_editor.php:2453
+#: core/classes/class.arprice_preview_editor.php:2453
+#: core/classes/class.arprice_preview_editor.php:2580
+#: core/classes/class.arprice_preview_editor.php:2588
+#: core/classes/class.arprice_preview_editor.php:2588
+#: core/classes/class.arprice_preview_editor.php:2711
+#: core/classes/class.arprice_preview_editor.php:2711
+#: core/classes/class.arprice_preview_editor.php:2812
+#: core/classes/class.arprice_preview_editor.php:2812
+#: core/classes/class.arprice_preview_editor.php:2908
+#: core/classes/class.arprice_preview_editor.php:2908
+#: core/classes/class.arprice_preview_editor.php:5043
+#: core/classes/class.arprice_preview_editor.php:5043
+msgid "Inherit from Theme"
+msgstr "Inherit from Theme"
+
+#: core/views/arprice_listing_editor.php:593
+#: core/views/arprice_listing_editor.php:597
+#: core/views/arprice_listing_editor.php:601
+#: core/views/arprice_listing_editor.php:605
+#: core/views/arprice_listing_editor.php:609
+#: core/views/arprice_listing_editor.php:613
+#: core/views/arprice_listing_editor.php:617
+#: core/views/arprice_listing_editor.php:621
+#: core/views/arprice_listing_editor.php:625
+#: core/views/arprice_listing_editor.php:629
+#: core/views/arprice_listing_editor.php:633
+#: core/views/arprice_listing_editor.php:637
+msgid "Insert Shortcode"
+msgstr "Insert Shortcode"
+
+#: core/classes/class.arprice.php:195
+msgid "Install"
+msgstr "Install"
+
+#: core/views/arprice_template_listing_2.0.php:349
+msgid "Install Failed"
+msgstr "Install Failed"
+
+#: core/views/arprice_template_listing_2.0.php:184
+#: core/views/arprice_template_listing_2.0.php:267
+msgid "Install Free Samples"
+msgstr "Install Free Samples"
+
+#: core/classes/class.arprice_file_handler.php:146
+msgid "Invalid file extension. Please select valid file"
+msgstr "Invalid file extension. Please select valid file"
+
+#: core/views/arprice_global_settings.php:330
+msgid "Ionicons"
+msgstr "Ionicons"
+
+#: core/classes/class.arprice_form.php:3175
+#: core/classes/class.arprice_preview_editor.php:1998
+#: core/classes/class.arprice_preview_editor.php:1998
+#: core/classes/class.arprice_preview_editor.php:2137
+#: core/classes/class.arprice_preview_editor.php:2137
+#: core/classes/class.arprice_preview_editor.php:2272
+#: core/classes/class.arprice_preview_editor.php:2272
+#: core/classes/class.arprice_preview_editor.php:2406
+#: core/classes/class.arprice_preview_editor.php:2406
+#: core/classes/class.arprice_preview_editor.php:2540
+#: core/classes/class.arprice_preview_editor.php:2540
+#: core/classes/class.arprice_preview_editor.php:2672
+#: core/classes/class.arprice_preview_editor.php:2672
+#: core/classes/class.arprice_preview_editor.php:2765
+#: core/classes/class.arprice_preview_editor.php:2765
+#: core/classes/class.arprice_preview_editor.php:2866
+#: core/classes/class.arprice_preview_editor.php:2866
+#: core/classes/class.arprice_preview_editor.php:2960
+#: core/classes/class.arprice_preview_editor.php:2960
+#: core/views/arprice_listing_editor.php:1196
+#: core/views/arprice_listing_editor.php:1196
+#: core/views/arprice_listing_editor.php:1583
+#: core/views/arprice_listing_editor.php:1583
+msgid "Italic"
+msgstr "Italic"
+
+#: arprice-responsive-pricing-table.php:2561
+msgid "Label"
+msgstr "Label"
+
+#: core/classes/class.arprice_preview_editor_option.php:77
+msgid "Label Description Settings"
+msgstr "Label Description Settings"
+
+#: core/classes/class.arprice.php:52
+msgid "Lack of documentation"
+msgstr "Lack of documentation"
+
+#: arprice-responsive-pricing-table.php:1217
+msgid "Large"
+msgstr "Large"
+
+#: core/views/arprice_template_listing_2.0.php:150
+msgid "Last Modified"
+msgstr "Last Modified"
+
+#: core/views/arprice_global_settings.php:519
+#: core/views/arprice_ab_testing.php:261
+msgid "Learn More"
+msgstr "Learn More"
+
+#: core/classes/class.arprice_preview_editor.php:707
+#: core/classes/class.arprice_preview_editor.php:723
+#: core/classes/class.arprice_preview_editor.php:1295
+#: core/classes/class.arprice_preview_editor.php:1605
+#: core/classes/class.arprice_preview_editor.php:1621
+#: core/views/arprice_listing_editor.php:347
+#: core/views/arprice_listing_editor.php:347
+#: core/views/arprice_listing_editor.php:2333
+msgid "Left"
+msgstr "Left"
+
+#: core/views/arprice_listing_editor.php:440
+msgid "Left / Right"
+msgstr "Left / Right"
+
+#: core/classes/class.arprice_preview_editor.php:2006
+#: core/classes/class.arprice_preview_editor.php:2145
+#: core/classes/class.arprice_preview_editor.php:2145
+#: core/classes/class.arprice_preview_editor.php:2280
+#: core/classes/class.arprice_preview_editor.php:2280
+#: core/classes/class.arprice_preview_editor.php:2414
+#: core/classes/class.arprice_preview_editor.php:2414
+#: core/classes/class.arprice_preview_editor.php:2548
+#: core/classes/class.arprice_preview_editor.php:2548
+#: core/classes/class.arprice_preview_editor.php:2680
+#: core/classes/class.arprice_preview_editor.php:2680
+#: core/classes/class.arprice_preview_editor.php:2777
+#: core/classes/class.arprice_preview_editor.php:2777
+#: core/classes/class.arprice_preview_editor.php:2874
+#: core/classes/class.arprice_preview_editor.php:2874
+#: core/classes/class.arprice_preview_editor.php:2968
+#: core/classes/class.arprice_preview_editor.php:2968
+#: core/views/arprice_listing_editor.php:1204
+#: core/views/arprice_listing_editor.php:1204
+#: core/views/arprice_listing_editor.php:1591
+#: core/views/arprice_listing_editor.php:1591
+msgid "Line-through"
+msgstr "Line-through"
+
+#: core/views/arprice_global_settings.php:492
+msgid "Load JS & CSS"
+msgstr "Load JS & CSS"
+
+#: core/views/arprice_global_settings.php:473
+msgid "Load JS & CSS in all pages"
+msgstr "Load JS & CSS in all pages"
+
+#: arprice-responsive-pricing-table.php:1159
+#: arprice-responsive-pricing-table.php:1163
+msgid "Loop"
+msgstr "Loop"
+
+#: core/classes/class.arprice_preview_editor.php:3758
+msgid "Main Belt"
+msgstr "Main Belt"
+
+#: arprice-responsive-pricing-table.php:1174
+msgid "Map info window content"
+msgstr "Map info window content"
+
+#: arprice-responsive-pricing-table.php:1172
+msgid "Marker image source"
+msgstr "Marker image source"
+
+#: arprice-responsive-pricing-table.php:1173
+msgid "Marker title"
+msgstr "Marker title"
+
+#: core/views/arprice_global_settings.php:326
+msgid "Material design"
+msgstr "Material design"
+
+#: core/classes/class.arprice_preview_editor_option.php:51
+msgid "Media Settings"
+msgstr "Media Settings"
+
+#: arprice-responsive-pricing-table.php:1216
+msgid "Medium"
+msgstr "Medium"
+
+#: arprice-responsive-pricing-table.php:1121
+msgid "Metacafe Video"
+msgstr "Metacafe Video"
+
+#: core/classes/class.arprice_preview_editor.php:651
+msgid "Minimum Row Height"
+msgstr "Minimum Row Height"
+
+#: arprice-responsive-pricing-table.php:1126
+msgid "Mixcloud Audio"
+msgstr "Mixcloud Audio"
+
+#: core/classes/class.arprice_preview_editor.php:778
+msgid "Mobile"
+msgstr "Mobile"
+
+#: arprice-responsive-pricing-table.php:2597
+#: core/views/arprice_global_settings.php:165
+msgid "Mobile View"
+msgstr "Mobile View"
+
+#: core/classes/class.arp_default_settings.php:5708
+msgid "Modern"
+msgstr "Modern"
+
+#: arprice-responsive-pricing-table.php:1164
+msgid "MP3 source"
+msgstr "MP3 source"
+
+#: arprice-responsive-pricing-table.php:1154
+msgid "MP4 source"
+msgstr "MP4 source"
+
+#: core/views/arprice_template_listing_2.0.php:66
+msgid "MY PRICING TABLES"
+msgstr "MY PRICING TABLES"
+
+#: core/classes/class.arprice_preview_editor.php:575
+msgid "New"
+msgstr "New"
+
+#: arprice-responsive-pricing-table.php:2580
+msgid "Next"
+msgstr "Next"
+
+#: core/views/arprice_import_export.php:157
+msgid "No file Selected"
+msgstr "No file Selected"
+
+#: arprice-responsive-pricing-table.php:455
+msgid "No, Maybe later"
+msgstr "No, Maybe later"
+
+#: arprice-responsive-pricing-table.php:935
+#: core/classes/class.arp_default_settings.php:5752
+#: core/classes/class.arprice_preview_editor.php:1149
+msgid "None"
+msgstr "None"
+
+#: core/classes/class.arprice_form.php:3174
+#: core/classes/class.arprice_preview_editor.php:3107
+msgid "Normal"
+msgstr "Normal"
+
+#: arprice-responsive-pricing-table.php:2557
+msgid "Normat State"
+msgstr "Normat State"
+
+#: core/classes/class.arprice.php:53
+msgid "Not the features I wanted"
+msgstr "Not the features I wanted"
+
+#: core/classes/class.arprice_preview_editor.php:3309
+#: core/classes/class.arprice_preview_editor.php:3634
+#: core/views/arprice_listing_editor.php:1919
+#: core/views/arprice_listing_editor.php:2092
+#: core/views/arprice_listing_editor.php:2229
+msgid "Odd"
+msgstr "Odd"
+
+#: arprice-responsive-pricing-table.php:903
+#: arprice-responsive-pricing-table.php:907
+msgid "Off"
+msgstr "Off"
+
+#: arprice-responsive-pricing-table.php:1156
+#: arprice-responsive-pricing-table.php:1165
+msgid "Ogg source"
+msgstr "Ogg source"
+
+#: core/views/arprice_listing_editor.php:1015
+#: core/views/arprice_ab_testing.php:194
+#: core/views/arprice_template_listing_2.0.php:337
+#: core/views/arprice_template_listing_2.0.php:355
+msgid "OK"
+msgstr "OK"
+
+#: arprice-responsive-pricing-table.php:2536
+#: arprice-responsive-pricing-table.php:2562
+#: core/classes/class.arprice_preview_editor.php:4179
+#: core/classes/class.arprice_preview_editor.php:4232
+#: core/classes/class.arprice_preview_editor_option.php:33
+#: core/classes/class.arprice_preview_editor_option.php:88
+#: core/views/arprice_listing_editor.php:490
+#: core/views/arprice_listing_editor.php:916
+#: core/views/arprice_listing_editor.php:968
+#: core/views/arprice_listing_editor.php:1093
+#: core/views/arprice_listing_editor.php:1219
+#: core/views/arprice_listing_editor.php:1365
+#: core/views/arprice_listing_editor.php:1608
+#: core/views/arprice_listing_editor.php:1779
+#: core/views/arprice_listing_editor.php:1863
+#: core/views/arprice_listing_editor.php:2265
+#: core/views/arprice_listing_editor.php:2512
+#: core/views/arprice_listing_editor.php:2592
+msgid "Ok"
+msgstr "Ok"
+
+#: arprice-responsive-pricing-table.php:454
+msgid "OK, you deserve it"
+msgstr "OK, you deserve it"
+
+#: core/views/arprice_listing_editor.php:653
+msgid "Okay"
+msgstr "Okay"
+
+#: arprice-responsive-pricing-table.php:906
+msgid "On"
+msgstr "On"
+
+#: arprice-responsive-pricing-table.php:2602
+#, php-format
+msgid ""
+"Once you click save button all your changes will be saved as clone of "
+"existing template. you can right away copy short code and put it on page. %s "
+"Thank you"
+msgstr ""
+"Once you click save button all your changes will be saved as clone of "
+"existing template. you can right away copy short code and put it on page. %s "
+"Thank you"
+
+#: core/classes/class.arprice_preview_editor.php:910
+msgid "Only bottom rows will hide and shown in preview and front end."
+msgstr "Only bottom rows will hide and shown in preview and front end."
+
+#: core/classes/class.arprice_preview_editor.php:1098
+msgid "Opacity"
+msgstr "Opacity"
+
+#: core/classes/class.arprice_preview_editor.php:1126
+msgid "Opacity will be shown in preview and frontend only."
+msgstr "Opacity will be shown in preview and frontend only."
+
+#: core/views/arprice_listing_editor.php:579
+msgid "Open in Lightbox"
+msgstr "Open in Lightbox"
+
+#: core/views/arprice_listing_editor.php:1049
+msgid "Open in New Tab?"
+msgstr "Open in New Tab?"
+
+#: core/views/arprice_listing_editor.php:1062
+msgid "Open in New Window?"
+msgstr "Open in New Window?"
+
+#: arprice-responsive-pricing-table.php:2571 core/classes/class.arprice.php:57
+msgid "Other"
+msgstr "Other"
+
+#: core/views/arprice_listing_editor.php:2495
+msgid "Pass variables in URL"
+msgstr "Pass variables in URL"
+
+#: core/views/arprice_listing_editor.php:715
+msgid "Please enable Font Awesome icon."
+msgstr "Please enable Font Awesome icon."
+
+#: core/classes/class.arprice_file_handler.php:26
+msgid "Please select a file to process"
+msgstr "Please select a file to process"
+
+#: core/views/arprice_import_export.php:68
+msgid "Please Select file exported from ARPrice Lite Plugin."
+msgstr "Please Select file exported from ARPrice Lite Plugin."
+
+#: core/views/arprice_import_export.php:83
+msgid "Please Select File."
+msgstr "Please Select File."
+
+#: core/classes/class.arprice_file_handler.php:122
+#: core/classes/class.arprice_file_handler.php:131
+msgid "Please select image file only."
+msgstr "Please select image file only."
+
+#: core/classes/arplite_elementor_widget/arpricelite_element_add.php:43
+#: core/classes/arplite_elementor_widget/arpricelite_element_add.php:70
+msgid "Please select table"
+msgstr "Please select table"
+
+#: core/views/arprice_import_export.php:97
+msgid "Please Select Table(s)"
+msgstr "Please Select Table(s)"
+
+#: core/views/arprice_import_export.php:86
+msgid "Please Select Table."
+msgstr "Please Select Table."
+
+#: core/views/arprice_import_export.php:80
+msgid "Please Select Valid File."
+msgstr "Please Select Valid File."
+
+#: core/classes/class.arprice_analytics.php:58
+#: core/classes/class.arprice_analytics.php:60
+msgid "Please Select Valid Pricing Table"
+msgstr "Please Select Valid Pricing Table"
+
+#: core/classes/class.arprice_preview_editor.php:5038
+#: core/views/arprice_front.php:1404
+msgid "Please select valid table"
+msgstr "Please select valid table"
+
+#: core/vc/class_vc_extend.php:85
+msgid "Please Select Your Pricing Table"
+msgstr "Please Select Your Pricing Table"
+
+#: core/classes/class.arprice_file_handler.php:142
+msgid "Please set extensions to validate file."
+msgstr "Please set extensions to validate file."
+
+#: arprice-responsive-pricing-table.php:2201
+msgid "Please specify"
+msgstr "Please specify"
+
+#: arprice-responsive-pricing-table.php:2200
+msgid "Please specify experience"
+msgstr "Please specify experience"
+
+#: core/views/arprice_listing_editor.php:670
+#: core/views/arprice_template_listing_2.0.php:314
+msgid "Please take a quick tour of basic functionalities."
+msgstr "Please take a quick tour of basic functionalities."
+
+#: core/views/arprice_global_settings.php:516
+#: core/views/arprice_ab_testing.php:258
+msgid "Please upgrade to premium version to unlock this feature."
+msgstr "Please upgrade to premium version to unlock this feature."
+
+#: core/views/arprice_global_settings.php:152
+#: core/views/arprice_global_settings.php:210
+#: core/views/arprice_global_settings.php:262
+#: core/views/arprice_global_settings.php:282
+msgid "Please Upgrade to premium version to use this feature."
+msgstr "Please Upgrade to premium version to use this feature."
+
+#: core/views/arprice_listing_editor.php:721
+#: core/views/arprice_listing_editor.php:726
+#: core/views/arprice_listing_editor.php:731
+msgid "Please upgrade to premium version to use this icons"
+msgstr "Please upgrade to premium version to use this icons"
+
+#: core/views/arprice_import_export.php:144
+msgid "Please Upload text file exported from ARPrice Lite plugin"
+msgstr "Please Upload text file exported from ARPrice Lite plugin"
+
+#: core/views/arprice_listing_editor.php:1109
+msgid "Position"
+msgstr "Position"
+
+#: arprice-responsive-pricing-table.php:1157
+msgid "Poster image source"
+msgstr "Poster image source"
+
+#: core/views/arprice_template_listing_2.0.php:187
+msgid "Premium Version Only"
+msgstr "Premium Version Only"
+
+#: core/views/arprice_listing_editor.php:322
+msgid "Preset Ribbons"
+msgstr "Preset Ribbons"
+
+#: arprice-responsive-pricing-table.php:2581
+msgid "Prev"
+msgstr "Prev"
+
+#: core/classes/class.arprice.php:196
+#: core/views/arprice_template_listing_2.0.php:137
+#: core/views/arprice_template_listing_2.0.php:228
+#: core/views/arprice_template_listing_2.0.php:252
+msgid "Preview"
+msgstr "Preview"
+
+#: arprice-responsive-pricing-table.php:2593
+msgid "Preview Button"
+msgstr "Preview Button"
+
+#: arprice-responsive-pricing-table.php:2542
+msgid "Price section is hidden."
+msgstr "Price section is hidden."
+
+#: core/classes/class.arprice_preview_editor_option.php:57
+msgid "Price Settings"
+msgstr "Price Settings"
+
+#: core/views/arprice_listing_editor.php:1226
+msgid "Price Text"
+msgstr "Price Text"
+
+#: core/classes/class.arprice_preview_editor.php:3221
+#: core/classes/class.arprice_preview_editor.php:3549
+#: core/views/arprice_listing_editor.php:2042
+#: core/views/arprice_listing_editor.php:2180
+msgid "Pricing"
+msgstr "Pricing"
+
+#: arprice-responsive-pricing-table.php:2591
+msgid "Pricing area change"
+msgstr "Pricing area change"
+
+#: core/classes/class.arprice_preview_editor.php:2164
+msgid "Pricing Fonts"
+msgstr "Pricing Fonts"
+
+#: core/vc/class_vc_extend.php:87 core/widgets/arprice_widget.php:38
+msgid "Pricing Table Not Found"
+msgstr "Pricing Table Not Found"
+
+#: core/views/arprice_listing_editor.php:163
+msgid "Pricing table saved successfully."
+msgstr "Pricing table saved successfully."
+
+#: core/views/arprice_global_settings.php:86
+msgid "Pricing Table Settings"
+msgstr "Pricing Table Settings"
+
+#: core/views/arprice_ab_testing.php:59
+msgid "Primary Table"
+msgstr "Primary Table"
+
+#: arprice-responsive-pricing-table.php:827
+#: arprice-responsive-pricing-table.php:828
+#: arprice-responsive-pricing-table.php:829
+#: arprice-responsive-pricing-table.php:830
+#: arprice-responsive-pricing-table.php:831
+#: core/classes/class.arprice_preview_editor.php:778
+#: core/classes/class.arprice_preview_editor.php:808
+#: core/classes/class.arprice_preview_editor.php:848
+#: core/classes/class.arprice_preview_editor.php:1098
+#: core/classes/class.arprice_preview_editor.php:1673
+#: core/classes/class.arprice_preview_editor.php:1693
+#: core/classes/class.arprice_preview_editor.php:1711
+#: core/classes/class.arprice_preview_editor.php:1769
+#: core/classes/class.arprice_preview_editor.php:2695
+#: core/classes/class.arprice_preview_editor.php:2796
+#: core/classes/class.arprice_preview_editor.php:2892
+#: core/classes/class.arprice_preview_editor.php:3361
+#: core/classes/class.arprice_preview_editor.php:3692
+#: core/classes/class.arprice_preview_editor.php:3788
+msgid "Pro Version"
+msgstr "Pro Version"
+
+#: core/views/arprice_global_settings.php:122
+msgid "Product License"
+msgstr "Product License"
+
+#: arprice-responsive-pricing-table.php:929
+msgid "Pulse"
+msgstr "Pulse"
+
+#: core/views/arprice_listing_editor.php:438
+#: core/views/arprice_listing_editor.php:444
+#: core/views/arprice_listing_editor.php:2276
+msgid "Px"
+msgstr "Px"
+
+#: core/views/arprice_global_settings.php:184
+#: core/views/arprice_global_settings.php:189
+#: core/views/arprice_global_settings.php:194
+msgid "px"
+msgstr "px"
+
+#: core/views/arprice_template_listing_2.0.php:185
+msgid "Ready made pricing templates"
+msgstr "Ready made pricing templates"
+
+#: arprice-responsive-pricing-table.php:2585
+msgid "Real Time Editor"
+msgstr "Real Time Editor"
+
+#: arprice-responsive-pricing-table.php:2555
+#: core/views/arprice_listing_editor.php:898
+#: core/views/arprice_listing_editor.php:1294
+#: core/views/arprice_listing_editor.php:1421
+#: core/views/arprice_listing_editor.php:1484
+#: core/views/arprice_listing_editor.php:1700
+#: core/views/arprice_listing_editor.php:1843
+msgid "Remove"
+msgstr "Remove"
+
+#: core/views/arprice_listing_editor.php:983
+#: core/views/arprice_listing_editor.php:2432
+msgid "Remove Image"
+msgstr "Remove Image"
+
+#: core/views/arprice_listing_editor.php:2490
+msgid "Remove Ribbon"
+msgstr "Remove Ribbon"
+
+#. Author of the plugin
+msgid "Repute InfoSystems"
+msgstr "Repute InfoSystems"
+
+#: core/views/arprice_global_settings.php:160
+msgid "Resonsive Settings"
+msgstr "Resonsive Settings"
+
+#. Description of the plugin
+#: core/vc/class_vc_extend.php:31
+msgid "Responsive WordPress Pricing Table / Team Showcase Plugin"
+msgstr "Responsive WordPress Pricing Table / Team Showcase Plugin"
+
+#: core/classes/class.arp_default_settings.php:5704
+msgid "Reverse Border"
+msgstr "Reverse Border"
+
+#: core/views/arprice_listing_editor.php:2451
+msgid "Ribbon"
+msgstr "Ribbon"
+
+#: core/views/arprice_listing_editor.php:341
+msgid "Ribbon Position"
+msgstr "Ribbon Position"
+
+#: core/views/arprice_listing_editor.php:312
+msgid "Ribbon Style"
+msgstr "Ribbon Style"
+
+#: core/views/arprice_listing_editor.php:392
+msgid "Ribbon Text"
+msgstr "Ribbon Text"
+
+#: core/classes/class.arprice_preview_editor.php:715
+#: core/classes/class.arprice_preview_editor.php:731
+#: core/classes/class.arprice_preview_editor.php:1304
+#: core/classes/class.arprice_preview_editor.php:1613
+#: core/classes/class.arprice_preview_editor.php:1629
+#: core/views/arprice_listing_editor.php:343
+#: core/views/arprice_listing_editor.php:346
+#: core/views/arprice_listing_editor.php:346
+#: core/views/arprice_listing_editor.php:2341
+msgid "Right"
+msgstr "Right"
+
+#: core/classes/class.arp_default_settings.php:5742
+msgid "Rounded Square (Bordered)"
+msgstr "Rounded Square (Bordered)"
+
+#: core/classes/class.arp_default_settings.php:5747
+msgid "Rounded Square (Solid)"
+msgstr "Rounded Square (Solid)"
+
+#: core/classes/class.arprice_preview_editor.php:3409
+#: core/views/arprice_listing_editor.php:1953
+msgid "Row"
+msgstr "Row"
+
+#: core/classes/class.arprice_preview_editor.php:1338
+msgid "Row Borders"
+msgstr "Row Borders"
+
+#: core/views/arprice_ab_testing.php:190
+msgid "Save"
+msgstr "Save"
+
+#: core/views/arprice_global_settings.php:501
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: core/views/arprice_ab_testing.php:192
+msgid ""
+"Saving the A/B testing settings will reset the Analytics. Do you want to "
+"continue?"
+msgstr ""
+"Saving the A/B testing settings will reset the Analytics. Do you want to "
+"continue?"
+
+#: arprice-responsive-pricing-table.php:1118
+msgid "Screenr Video"
+msgstr "Screenr Video"
+
+#: core/views/arprice_template_listing_2.0.php:229
+#: core/views/arprice_template_listing_2.0.php:253
+msgid "Select"
+msgstr "Select"
+
+#: arprice-responsive-pricing-table.php:2588
+msgid ""
+"Select color of your template by clicking the button. you will see color "
+"change is applied right away"
+msgstr ""
+"Select color of your template by clicking the button. you will see color "
+"change is applied right away"
+
+#: core/classes/class.arprice_preview_editor.php:3004
+msgid "Select Default Color"
+msgstr "Select Default Color"
+
+#: core/views/arprice_import_export.php:147
+msgid "Select File :"
+msgstr "Select File :"
+
+#: core/views/arprice_template_listing_2.0.php:178
+msgid "Select Pricing Table"
+msgstr "Select Pricing Table"
+
+#: core/views/arprice_ab_testing.php:63
+msgid "Select Primary Table"
+msgstr "Select Primary Table"
+
+#: core/views/arprice_listing_editor.php:306
+#: core/views/arprice_listing_editor.php:316
+#: core/views/arprice_listing_editor.php:2454
+msgid "Select Ribbon"
+msgstr "Select Ribbon"
+
+#: core/views/arprice_ab_testing.php:69 core/views/arprice_ab_testing.php:83
+#: core/views/arprice_ab_testing.php:83 core/views/arprice_ab_testing.php:123
+#: core/views/arprice_ab_testing.php:123 core/views/arprice_ab_testing.php:141
+#: core/views/arprice_ab_testing.php:159 core/views/arprice_ab_testing.php:159
+#: core/views/arprice_ab_testing.php:235 core/views/arprice_ab_testing.php:235
+#: core/views/arprice_template_listing_2.0.php:138
+msgid "Select Table"
+msgstr "Select Table"
+
+#: core/views/arprice_ab_testing.php:118 core/views/arprice_ab_testing.php:230
+msgid "Select table"
+msgstr "Select table"
+
+#: core/views/arprice_template_listing_2.0.php:180
+#: core/views/arprice_template_listing_2.0.php:193
+msgid "Select Template"
+msgstr "Select Template"
+
+#: core/views/arprice_ab_testing.php:108
+msgid "Select Variation Table"
+msgstr "Select Variation Table"
+
+#: core/classes/class.arprice.php:89
+msgid "Send anonymous"
+msgstr "Send anonymous"
+
+#: core/views/arprice_template_listing_2.0.php:424
+msgid "Send it now"
+msgstr "Send it now"
+
+#: core/views/arprice_listing_editor.php:399
+msgid "Set Colors"
+msgstr "Set Colors"
+
+#: core/classes/class.arprice_preview_editor.php:1795
+msgid "Set Default Font"
+msgstr "Set Default Font"
+
+#: arprice-responsive-pricing-table.php:2592
+msgid "Set pricing and its interval from this area."
+msgstr "Set pricing and its interval from this area."
+
+#: core/classes/class.arprice.php:51
+msgid "Set up is too difficult"
+msgstr "Set up is too difficult"
+
+#: arprice-responsive-pricing-table.php:2657
+msgid "Settings"
+msgstr "Settings"
+
+#: core/classes/class.arp_default_settings.php:5688
+msgid "Shadow"
+msgstr "Shadow"
+
+#: arprice-responsive-pricing-table.php:928
+msgid "Shadow effect"
+msgstr "Shadow effect"
+
+#: arprice-responsive-pricing-table.php:930
+msgid "Shake"
+msgstr "Shake"
+
+#: core/classes/class.arprice_preview_editor.php:349
+#: core/classes/class.arprice_preview_editor.php:359
+#: core/classes/class.arprice_preview_editor.php:3169
+#: core/classes/class.arprice_preview_editor.php:3495
+#: core/views/arprice_template_listing_2.0.php:161
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: core/views/arprice_listing_editor.php:2013
+#: core/views/arprice_listing_editor.php:2152
+msgid "Shortcode Section"
+msgstr "Shortcode Section"
+
+#: core/views/arprice_listing_editor.php:1338
+#: core/views/arprice_listing_editor.php:1752
+msgid "Size"
+msgstr "Size"
+
+#: core/views/arprice_listing_editor.php:674
+#: core/views/arprice_template_listing_2.0.php:318
+msgid "Skip Tour"
+msgstr "Skip Tour"
+
+#: arprice-responsive-pricing-table.php:1215
+msgid "Small"
+msgstr "Small"
+
+#: core/classes/class.arprice_preview_editor.php:1261
+#: core/classes/class.arprice_preview_editor.php:1403
+#: core/classes/class.arprice_preview_editor.php:1403
+msgid "Solid"
+msgstr "Solid"
+
+#: core/classes/class.arprice_preview_editor.php:1516
+msgid "solid"
+msgstr "solid"
+
+#: core/views/arprice_template_listing_2.0.php:265
+msgid ""
+"Something went wrong, while downloading sample template. Please try again"
+msgstr ""
+"Something went wrong, while downloading sample template. Please try again"
+
+#: arprice-responsive-pricing-table.php:3379
+#: core/views/arprice_import_export.php:71
+msgid "Sorry, you do not have permission to perform this action"
+msgstr "Sorry, you do not have permission to perform this action"
+
+#: core/classes/class.arprice_file_handler.php:73
+#: core/classes/class.arprice_file_handler.php:83
+#: core/classes/class.arprice_file_handler.php:87
+msgid "Sorry, you don't have permission to perform this action."
+msgstr "Sorry, you don't have permission to perform this action."
+
+#: arprice-responsive-pricing-table.php:3393
+#: core/views/arprice_import_export.php:74
+msgid "Sorry, your request cannot be processed due to security reason."
+msgstr "Sorry, your request cannot be processed due to security reason."
+
+#: core/classes/class.arprice_file_handler.php:95
+#: core/classes/class.arprice_file_handler.php:100
+msgid "Sorry, Your request could not be processed due to security reasons."
+msgstr "Sorry, Your request could not be processed due to security reasons."
+
+#: arprice-responsive-pricing-table.php:1125
+msgid "Soundcloud Audio"
+msgstr "Soundcloud Audio"
+
+#: core/classes/class.arprice_preview_editor.php:637
+msgid "Space between Columns"
+msgstr "Space between Columns"
+
+#: core/classes/class.arp_default_settings.php:5732
+msgid "Square (Bordered)"
+msgstr "Square (Bordered)"
+
+#: core/classes/class.arp_default_settings.php:5737
+msgid "Square (Solid)"
+msgstr "Square (Solid)"
+
+#: core/views/arprice_listing_editor.php:673
+#: core/views/arprice_template_listing_2.0.php:317
+msgid "Start Tour"
+msgstr "Start Tour"
+
+#: core/views/arprice_template_listing_2.0.php:154
+msgid "Statistics"
+msgstr "Statistics"
+
+#: core/views/arprice_listing_editor.php:1315
+#: core/views/arprice_listing_editor.php:1725
+msgid "Style"
+msgstr "Style"
+
+#: arprice-responsive-pricing-table.php:1221
+msgid "Submit"
+msgstr "Submit"
+
+#: core/classes/class.arprice_preview_editor.php:3361
+msgid "Submit Loader Colors"
+msgstr "Submit Loader Colors"
+
+#: core/classes/class.arprice.php:83
+msgid "Submitting form"
+msgstr "Submitting form"
+
+#: core/views/arprice_template_listing_2.0.php:415
+msgid "Subscribe with Us"
+msgstr "Subscribe with Us"
+
+#: arprice-responsive-pricing-table.php:931
+msgid "Swing"
+msgstr "Swing"
+
+#: core/widgets/arprice_widget.php:26
+msgid "Table"
+msgstr "Table"
+
+#: core/views/arprice_import_export.php:65
+msgid "Table Imported Successfully"
+msgstr "Table Imported Successfully"
+
+#: core/classes/arplite_elementor_widget/arpricelite_element_add.php:68
+msgid "Table:"
+msgstr "Table:"
+
+#: core/classes/class.arprice_preview_editor.php:808
+msgid "Tablet"
+msgstr "Tablet"
+
+#: core/views/arprice_global_settings.php:170
+msgid "Tablet View"
+msgstr "Tablet View"
+
+#: core/views/arprice_global_settings.php:103
+msgid "Template Reset Successfully."
+msgstr "Template Reset Successfully."
+
+#: core/classes/class.arprice_form.php:3327
+#: core/views/arprice_listing_editor.php:1124
+#: core/views/arprice_listing_editor.php:1506
+#: core/views/arprice_listing_editor.php:2523
+msgid "Text Alignment"
+msgstr "Text Alignment"
+
+#: core/classes/class.arprice_preview_editor.php:3119
+#: core/classes/class.arprice_preview_editor.php:3708
+#: core/classes/class.arprice_preview_editor.php:3804
+#: core/views/arprice_listing_editor.php:419
+#: core/views/arprice_listing_editor.php:1881
+#: core/views/arprice_listing_editor.php:1915
+#: core/views/arprice_listing_editor.php:1985
+#: core/views/arprice_listing_editor.php:2088
+#: core/views/arprice_listing_editor.php:2126
+#: core/views/arprice_listing_editor.php:2225
+msgid "Text Color"
+msgstr "Text Color"
+
+#: core/classes/class.arprice_file_handler.php:220
+msgid ""
+"The file could not be uploaded due to security reason as it contains "
+"malicious code"
+msgstr ""
+"The file could not be uploaded due to security reason as it contains "
+"malicious code"
+
+#: core/classes/class.arprice_file_handler.php:115
+msgid "The file could not be uploaded due to security reasons."
+msgstr "The file could not be uploaded due to security reasons."
+
+#: core/views/arprice_template_listing_2.0.php:274
+msgid "There are no samples available."
+msgstr "There are no samples available."
+
+#: core/classes/class.arprice_file_handler.php:179
+msgid "There is an issue while uploading a file. Please try again"
+msgstr "There is an issue while uploading a file. Please try again"
+
+#: core/views/arprice_template_listing_2.0.php:419
+msgid "This field cannot be blank."
+msgstr "This field cannot be blank."
+
+#: arprice-responsive-pricing-table.php:2535
+msgid "This ribbon is not supported in this template."
+msgstr "This ribbon is not supported in this template."
+
+#: core/views/arprice_template_listing_2.0.php:385
+msgid "This template is available in premium version only"
+msgstr "This template is available in premium version only"
+
+#: core/views/arprice_ab_testing.php:25
+msgid "till now"
+msgstr "till now"
+
+#: core/views/arprice_template_listing_2.0.php:146
+#: core/widgets/arprice_widget.php:23
+msgid "Title"
+msgstr "Title"
+
+#: core/classes/class.arprice_preview_editor.php:3760
+msgid "Title Font"
+msgstr "Title Font"
+
+#: core/classes/arplite_elementor_widget/arpricelite_element_add.php:60
+msgid "Title:"
+msgstr "Title:"
+
+#: core/views/arprice_listing_editor.php:766
+#: core/views/arprice_listing_editor.php:778
+#: core/views/arprice_listing_editor.php:790
+#: core/views/arprice_listing_editor.php:802
+#: core/views/arprice_template_listing_2.0.php:375
+msgid "To unlock this Feature, Buy Premium Version for $27.00 Only."
+msgstr "To unlock this Feature, Buy Premium Version for $27.00 Only."
+
+#: core/classes/class.arprice_preview_editor.php:3692
+msgid "Toggle Button Colors"
+msgstr "Toggle Button Colors"
+
+#: core/classes/class.arprice_preview_editor.php:567
+#: core/classes/class.arprice_preview_editor.php:1769
+msgid "Toggle Price"
+msgstr "Toggle Price"
+
+#: core/classes/class.arprice_preview_editor.php:2892
+msgid "Toggle Tab Fonts"
+msgstr "Toggle Tab Fonts"
+
+#: core/classes/class.arprice_preview_editor.php:2796
+msgid "Toggle Title Fonts"
+msgstr "Toggle Title Fonts"
+
+#: arprice-responsive-pricing-table.php:2560
+#: core/classes/class.arprice_preview_editor.php:553
+#: core/classes/class.arprice_preview_editor.php:1693
+msgid "Tooltip"
+msgstr "Tooltip"
+
+#: core/classes/class.arprice_preview_editor.php:3788
+msgid "Tooltip Color"
+msgstr "Tooltip Color"
+
+#: core/classes/class.arprice_preview_editor.php:2695
+msgid "Tooltip Fonts"
+msgstr "Tooltip Fonts"
+
+#: core/classes/class.arprice_preview_editor.php:4219
+#: core/classes/class.arprice_preview_editor_option.php:73
+#: core/classes/class.arprice_preview_editor_option.php:73
+msgid "Tooltip Settings"
+msgstr "Tooltip Settings"
+
+#: arprice-responsive-pricing-table.php:901
+#: core/classes/class.arprice_preview_editor.php:743
+#: core/classes/class.arprice_preview_editor.php:1313
+#: core/classes/class.arprice_preview_editor.php:1641
+#: core/views/arprice_listing_editor.php:447
+#: core/views/arprice_listing_editor.php:2348
+msgid "Top"
+msgstr "Top"
+
+#: core/views/arprice_template_listing_2.0.php:365
+msgid "Tour Guide"
+msgstr "Tour Guide"
+
+#: core/views/arprice_global_settings.php:412
+msgid "Track button click of pricing table"
+msgstr "Track button click of pricing table"
+
+#: arprice-responsive-pricing-table.php:1188
+#: arprice-responsive-pricing-table.php:1198
+msgid "Track id"
+msgstr "Track id"
+
+#: arprice-responsive-pricing-table.php:1193
+msgid "Track url"
+msgstr "Track url"
+
+#: core/views/arprice_global_settings.php:334
+msgid "Typicons"
+msgstr "Typicons"
+
+#: core/classes/class.arprice_preview_editor.php:2002
+#: core/classes/class.arprice_preview_editor.php:2141
+#: core/classes/class.arprice_preview_editor.php:2141
+#: core/classes/class.arprice_preview_editor.php:2276
+#: core/classes/class.arprice_preview_editor.php:2276
+#: core/classes/class.arprice_preview_editor.php:2410
+#: core/classes/class.arprice_preview_editor.php:2410
+#: core/classes/class.arprice_preview_editor.php:2544
+#: core/classes/class.arprice_preview_editor.php:2544
+#: core/classes/class.arprice_preview_editor.php:2676
+#: core/classes/class.arprice_preview_editor.php:2676
+#: core/classes/class.arprice_preview_editor.php:2771
+#: core/classes/class.arprice_preview_editor.php:2771
+#: core/classes/class.arprice_preview_editor.php:2870
+#: core/classes/class.arprice_preview_editor.php:2870
+#: core/classes/class.arprice_preview_editor.php:2964
+#: core/classes/class.arprice_preview_editor.php:2964
+#: core/views/arprice_listing_editor.php:1200
+#: core/views/arprice_listing_editor.php:1200
+#: core/views/arprice_listing_editor.php:1587
+#: core/views/arprice_listing_editor.php:1587
+msgid "Underline"
+msgstr "Underline"
+
+#: core/views/arprice_upgrade_to_premium.php:18
+msgid "Upgrade to Premium"
+msgstr "Upgrade to Premium"
+
+#: core/views/arprice_listing_editor.php:753
+#: core/views/arprice_listing_editor.php:765
+#: core/views/arprice_listing_editor.php:777
+#: core/views/arprice_listing_editor.php:789
+#: core/views/arprice_listing_editor.php:801
+#: core/views/arprice_global_settings.php:515
+#: core/views/arprice_ab_testing.php:257
+#: core/views/arprice_import_export.php:185
+#: core/views/arprice_template_listing_2.0.php:374
+#: core/views/arprice_template_listing_2.0.php:401
+msgid "Upgrade To Premium Version."
+msgstr "Upgrade To Premium Version."
+
+#: core/views/arprice_listing_editor.php:1240
+#, php-format
+msgid "Use class %s for price animation. It will only work with numbers."
+msgstr "Use class %s for price animation. It will only work with numbers."
+
+#: core/views/arprice_ab_testing.php:100
+msgid "Variation Tables"
+msgstr "Variation Tables"
+
+#: arprice-responsive-pricing-table.php:2569
+msgid "Video"
+msgstr "Video"
+
+#: arprice-responsive-pricing-table.php:1140
+#: arprice-responsive-pricing-table.php:1145
+#: arprice-responsive-pricing-table.php:1150
+#: arprice-responsive-pricing-table.php:1178
+#: arprice-responsive-pricing-table.php:1183
+msgid "Video id"
+msgstr "Video id"
+
+#: arprice-responsive-pricing-table.php:2634
+msgid "View Analytics of Arpricelite Pricing Tables"
+msgstr "View Analytics of Arpricelite Pricing Tables"
+
+#: arprice-responsive-pricing-table.php:2632
+msgid "View And Manage Arpricelite Pricing Tables"
+msgstr "View And Manage Arpricelite Pricing Tables"
+
+#: core/views/arprice_ab_testing.php:215
+msgid "Views"
+msgstr "Views"
+
+#: arprice-responsive-pricing-table.php:1117
+msgid "Vimeo Video"
+msgstr "Vimeo Video"
+
+#: arprice-responsive-pricing-table.php:1166
+msgid "Wav source"
+msgstr "Wav source"
+
+#: core/views/arprice_template_listing_2.0.php:426
+msgid "We respect your privacy. We will NEVER share your detail anywhere."
+msgstr "We respect your privacy. We will NEVER share your detail anywhere."
+
+#: arprice-responsive-pricing-table.php:1155
+msgid "Webm source"
+msgstr "Webm source"
+
+#: core/views/arprice_ab_testing.php:64
+msgid "Weightage"
+msgstr "Weightage"
+
+#: arprice-responsive-pricing-table.php:2196
+msgid "What can we describe more?"
+msgstr "What can we describe more?"
+
+#: arprice-responsive-pricing-table.php:2195
+msgid "What was the dificult part?"
+msgstr "What was the dificult part?"
+
+#: core/classes/class.arprice_preview_editor.php:1751
+msgid ""
+"When you turn ON CSS Class Info, You will get an extra button by clicking on "
+"each column. By clicking on that, you will get all css class information for "
+"that particular column."
+msgstr ""
+"When you turn ON CSS Class Info, You will get an extra button by clicking on "
+"each column. By clicking on that, you will get all css class information for "
+"that particular column."
+
+#: arprice-responsive-pricing-table.php:1137
+#: core/classes/class.arprice_preview_editor.php:587
+msgid "Width"
+msgstr "Width"
+
+#: core/views/arprice_listing_editor.php:2272
+msgid "width (optional)"
+msgstr "width (optional)"
+
+#: arprice-responsive-pricing-table.php:2199
+msgid "With what plugin or theme is incompatible?"
+msgstr "With what plugin or theme is incompatible?"
+
+#: arprice-responsive-pricing-table.php:934
+msgid "Wobble"
+msgstr "Wobble"
+
+#: core/views/arprice_listing_editor.php:1043
+#: core/views/arprice_listing_editor.php:1056
+#: core/views/arprice_listing_editor.php:1069
+#: core/views/arprice_listing_editor.php:1082
+#: core/views/arprice_listing_editor.php:2445
+msgid "Yes"
+msgstr "Yes"
+
+#: core/views/arprice_listing_editor.php:754
+#: core/views/arprice_import_export.php:186
+msgid "You can create maximum 4 columns in free version"
+msgstr "You can create maximum 4 columns in free version"
+
+#: core/views/arprice_import_export.php:77
+#: core/views/arprice_template_listing_2.0.php:402
+msgid "You can create maximum 4 tables in free version."
+msgstr "You can create maximum 4 tables in free version."
+
+#: core/views/arprice_listing_editor.php:651
+msgid "You can not delete all columns"
+msgstr "You can not delete all columns"
+
+#: arprice-responsive-pricing-table.php:1116
+msgid "Youtube video"
+msgstr "Youtube video"
+
+#: arprice-responsive-pricing-table.php:1171
+msgid "Zoom level"
+msgstr "Zoom level"
